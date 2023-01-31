@@ -22,9 +22,10 @@
   height: 60px;
   background: #000;
   position: absolute;
-  left: 65%;
-  top: 35%;
+  left: 50%;
+  top: 20%;
   transform: translate(-50%, -50%);
+  transform-origin: bottom;
 }
 
 .clock--hand__minutes {
