@@ -12,8 +12,8 @@ function App() {
       <Header />
       <main className="">
         <Routes>
-          <Route path="/" element={<Home />}></Route>
-          <Route path="/:jigsaw" element={<Jigsaw />}></Route>
+          <Route path="/jigsaw-puzzle/" element={<Home />}></Route>
+          <Route path="/jigsaw-puzzle/:jigsaw" element={<Jigsaw />}></Route>
         </Routes>
       </main>
     </>
