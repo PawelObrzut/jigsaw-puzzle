@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jigsaw-puzzle/static/css/main.d3ecb635.css",
+    "main.js": "/jigsaw-puzzle/static/js/main.88ba677b.js",
+    "static/js/787.2e44e567.chunk.js": "/jigsaw-puzzle/static/js/787.2e44e567.chunk.js",
+    "static/media/pirate.png": "/jigsaw-puzzle/static/media/pirate.f7b573bb8323654b18bd.png",
+    "static/media/king.png": "/jigsaw-puzzle/static/media/king.adfe915e2e0e96ea8a62.png",
+    "static/media/iceskater.png": "/jigsaw-puzzle/static/media/iceskater.d16e0950ef64157a63e4.png",
+    "static/media/yeti.png": "/jigsaw-puzzle/static/media/yeti.754e6e865d29c06b2f4f.png",
+    "static/media/dinosaur.png": "/jigsaw-puzzle/static/media/dinosaur.1ce6a090a0b60f3e47d3.png",
+    "static/media/eagle.png": "/jigsaw-puzzle/static/media/eagle.148c723e2364baeb64af.png",
+    "static/media/turtle.png": "/jigsaw-puzzle/static/media/turtle.fc725a6f57b4321a910b.png",
+    "static/media/lobster.png": "/jigsaw-puzzle/static/media/lobster.95193de4a8002117c502.png",
+    "static/media/whale.png": "/jigsaw-puzzle/static/media/whale.c7485e0dd137a5db09db.png",
+    "static/media/meteor.png": "/jigsaw-puzzle/static/media/meteor.1b80246065e086b8fab1.png",
+    "static/media/cupcake.png": "/jigsaw-puzzle/static/media/cupcake.bceddb593b489059b28d.png",
+    "index.html": "/jigsaw-puzzle/index.html",
+    "main.d3ecb635.css.map": "/jigsaw-puzzle/static/css/main.d3ecb635.css.map",
+    "main.88ba677b.js.map": "/jigsaw-puzzle/static/js/main.88ba677b.js.map",
+    "787.2e44e567.chunk.js.map": "/jigsaw-puzzle/static/js/787.2e44e567.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3ecb635.css",
+    "static/js/main.88ba677b.js"
+  ]
+}
