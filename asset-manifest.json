@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jigsaw-puzzle/static/css/main.d3ecb635.css",
-    "main.js": "/jigsaw-puzzle/static/js/main.02ca3c69.js",
+    "main.js": "/jigsaw-puzzle/static/js/main.ddd32621.js",
     "static/js/787.2e44e567.chunk.js": "/jigsaw-puzzle/static/js/787.2e44e567.chunk.js",
     "static/media/pirate.png": "/jigsaw-puzzle/static/media/pirate.f7b573bb8323654b18bd.png",
     "static/media/king.png": "/jigsaw-puzzle/static/media/king.adfe915e2e0e96ea8a62.png",
@@ -16,11 +16,11 @@
     "static/media/cupcake.png": "/jigsaw-puzzle/static/media/cupcake.bceddb593b489059b28d.png",
     "index.html": "/jigsaw-puzzle/index.html",
     "main.d3ecb635.css.map": "/jigsaw-puzzle/static/css/main.d3ecb635.css.map",
-    "main.02ca3c69.js.map": "/jigsaw-puzzle/static/js/main.02ca3c69.js.map",
+    "main.ddd32621.js.map": "/jigsaw-puzzle/static/js/main.ddd32621.js.map",
     "787.2e44e567.chunk.js.map": "/jigsaw-puzzle/static/js/787.2e44e567.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3ecb635.css",
-    "static/js/main.02ca3c69.js"
+    "static/js/main.ddd32621.js"
   ]
 }
