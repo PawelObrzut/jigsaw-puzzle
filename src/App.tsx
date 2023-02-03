@@ -13,7 +13,7 @@ function App() {
       <main className="">
         <Routes>
           <Route path="/" element={<Home />}></Route>
-          <Route path="/:jigsaw" element={<Jigsaw />}></Route>
+          <Route path="/puzzles/:jigsaw" element={<Jigsaw />}></Route>
         </Routes>
       </main>
     </>
